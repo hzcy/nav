@@ -4,8 +4,8 @@ const c: IConfig = {
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址
   gitRepoUrl: 'https://github.com/hzcy/nav',
-
-  // Deployment branch name
+  
+  //ss Deployment branch name
   // 部署分支
   branch: 'main',
 
